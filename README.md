@@ -28,7 +28,7 @@ The user will understand how the search pattern of the regex works.
 <br />
 
 ## Screenshots
-<img width="1000" alt="Sample" src="">
+<img width="1000" alt="Sample" src="https://github.com/san1718/mc17-Regex_Tutorial/blob/main/images/Gist.png">
 
 ## Credits
 Office Hours & Xpert Learning
