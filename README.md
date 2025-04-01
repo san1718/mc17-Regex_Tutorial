@@ -10,7 +10,7 @@
 
 ## Overview
 This application will let the user see a tutorial explaining a speific regex.
-The user will understand how to user the search pattern in the regexx defines.
+The user will understand how to user the search pattern in the regex defines.
 
 ## Features
 - Explanation of the tutorial
